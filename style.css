@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0;
+}
+html{
+    font-family: 'Roboto', sans-serif;
+   
+}
+h1{
+    margin-top: -60px;
+}
+p{
+    text-align: left;
+}
+body{
+    font-size: 20px;
+    background-color: #ffffff;
+}
+.about-section{
+  padding: 300px;
+  text-align: center;
+  color: rgb(31, 30, 30);
+}
+.div-visao {
+display: flex;
+justify-content: start;
+align-items: center;
+}
+.text-visao {
+    padding-left: 5px;
+}
+.div-valores{
+    display: flex;
+    justify-content: start;
+    align-items: center;  
+    margin-top: 40px;
+}
+.text-valores {
+    padding-left: 5px;
+}
